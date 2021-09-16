@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
-        <Image src="/images/logo.svg" alt="rw.news" width="110" height="31" />
+        <Image src="/images/logo.svg" alt="rw.news" width="200" height="360" />
         <nav>
           <a className={styles.active}>Home</a>
           <a>Posts</a>
